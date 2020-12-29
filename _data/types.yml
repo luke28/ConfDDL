@@ -1,0 +1,17 @@
+---
+- name: Software Engineering
+  sub: SE
+- name: Program Language
+  sub: PL
+- name: Data Mining
+  sub: DM
+- name: Database
+  sub: DB
+- name: Information Retrieval
+  sub: IR
+- name: Natural Language Processing
+  sub: NLP
+- name: Artificial Intelligence
+  sub: AI
+- name: System
+  sub: SYS

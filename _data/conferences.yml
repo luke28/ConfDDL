@@ -1,0 +1,373 @@
+---
+
+- title: ICSE
+  year: 2021
+  id: icse21
+  link: https://conf.researchr.org/home/icse-2021
+  deadline: '2020-08-28 23:59:00'
+  timezone: UTC-12
+  date: May 23-29, 2021
+  place: Madrid, Spain
+  sub: SE
+  note: '<b>NOTE</b>: 
+         <br>Nov 18-20, 2020: Author Response. 
+         <br>Jul 7, 2021: Notification.'
+
+- title: ASE
+  year: 2021
+  id: ase
+  link: https://conf.researchr.org/home/ase-2021
+  abstract_deadline: '2021-04-16 23:59:00'
+  deadline: '2021-04-23 23:59:00'
+  timezone: UTC-12
+  date: Nov 15-19, 2021 
+  place: Melbourne, Australia
+  sub: SE
+  note: '<b>NOTE</b>:  
+         <br>Jan 12, 2021: Notification.'
+         
+- title: OOPSLA (Second Round)
+  year: 2020
+  id: oopsla20_2
+  link: https://2020.splashcon.org/track/splash-2020-oopsla
+  deadline: '2020-09-14 23:59:00'
+  timezone: UTC-12
+  date: Nov 15-20, 2020
+  place: Online Conference
+  sub: PL
+  note: '<b>NOTE</b>: 
+         <br>Notification: Oct 1, 2020.'
+
+
+- title: ISSTA
+  year: 2021
+  id: issta21
+  link: https://conf.researchr.org/home/issta-2021
+  deadline: '2021-01-29 23:59:00'
+  timezone: UTC-12
+  date: Jul 12-16, 2021
+  place: Aarhus, Denmark
+  sub: SE
+  note: '<b>NOTE</b>: 
+         <br>Mar 24-27, 2021: Author Response. 
+         <br>Apr 19, 2021: Notification.'
+
+
+- title: ESEC/FSE
+  year: 2021
+  id: esecfse21
+  link: https://2021.esec-fse.org
+  deadline: '2021-02-25 23:59:00'
+  timezone: UTC-12
+  date: Aug 23-27, 2021
+  place: Athens, Greece
+  sub: SE
+  note: '<b>NOTE</b>: 
+         <br>Apr 27-30, 2021: Author Response.
+         <br>May 10-12, 2021: Additional Author Response. 
+         <br>May 21, 2021: Notification.'
+
+
+- title: PLDI
+  year: 2020
+  id: pldi20
+  link: https://pldi20.sigplan.org/track/pldi-2020-papers
+  deadline: '2010-11-22 23:59:00'
+  timezone: UTC-12
+  date: Jun 15-19, 2020
+  place: Online Conference
+  sub: PL
+  note: '<b>NOTE</b>: 
+         <br>Feb 3-5, 2020: Author Response. 
+         <br>Feb 21, 2020: Notification.'
+
+
+- title: OOPSLA (First Round)
+  year: 2020
+  id: oopsla20_1
+  link: https://2020.splashcon.org/track/splash-2020-oopsla
+  deadline: '2020-05-15 23:59:00'
+  timezone: UTC-12
+  date: Nov 15-20, 2020
+  place: Online Conference
+  sub: PL
+  note: '<b>NOTE</b>: 
+         <br>Jul 11-16, 2020: Author Response. 
+         <br>Jul 31, 2020: Notification.'
+
+
+- title: POPL
+  year: 2021
+  id: popl21
+  link: https://popl21.sigplan.org/track/POPL-2021-research-papers
+  deadline: '2020-07-09 23:59:00'
+  timezone: UTC-12
+  date: Jan 17-22, 2021
+  place: Copenhagen, Denmark
+  sub: PL
+  note: '<b>NOTE</b>: 
+         <br>Sep 7-9, 2020: Author Response. 
+         <br>Oct 1, 2020: Notification: '
+
+
+- title: WSDM
+  year: 2021
+  id: wsdm
+  link: http://www.wsdm-conference.org/2021/
+  deadline: '2020-08-16 23:59:00'
+  timezone: UTC-12
+  date: Mar 8-12, 2021
+  place: Jerusalem, Israel
+  sub: 
+    - DM
+    - IR
+  note: '<b>NOTE</b>: 
+         <br>Oct 16, 2020: Notification.'
+
+
+- title: AAAI
+  year: 2021
+  id: aaai
+  link: https://aaai.org/Conferences/AAAI-21/
+  deadline: '2020-09-09 23:59:00'
+  timezone: UTC-12
+  date: Feb 2-9, 2021
+  place: Virtual Conference
+  sub: AI
+  note: '<b>NOTE</b>: 
+         <br>Sep 1, 2020: Abstract Deadline. 
+         <br>Nov 3-5, 2020: Author Response. 
+         <br>Dec 1, 2020: Notification.'
+
+
+- title: ICML
+  year: 2021
+  id: icml
+  link: https://icml.cc/Conferences/2021/
+  deadline: '2021-02-04 23:59:00'
+  timezone: UTC-12
+  date: Jul 18-24, 2021 
+  place: Virtual
+  sub: AI
+  note: '<b>NOTE</b>:  
+         <br>Jan 28, 2021: Abstract Deadline. 
+         <br>Mar 18-23, 2021: Author Response. 
+         <br>May 8, 2021: Notification.'
+
+- title: SDM
+  year: 2021
+  id: sdm
+  link: https://www.siam.org/conferences/cm/conference/sdm21
+  deadline: '2020-09-21 23:59:00'
+  timezone: UTC-5
+  date: Mar 25-27, 2021
+  place: Alexandria, Virginia, USA
+  sub: DM
+  note: '<b>NOTE</b>: 
+         <br>Dec, 2020: Notification.'
+
+
+- title: The Web Conference
+  year: 2021
+  id: www
+  link: http://www2021.thewebconf.org/
+  abstract_deadline: '2020-10-12 23:59:00'
+  deadline: '2020-10-19 23:59:00'
+  timezone: UTC-12
+  date: Apr 19-23, 2021
+  place: Ljubljana, Slovenia
+  sub: 
+    - DM
+    - IR
+  note: '<b>NOTE</b>: 
+         <br>Oct 12, 2020: Abstract Deadline. 
+         <br>Nov 25 - Dec 2, 2020: Author Response.  
+         <br>Jan 15, 2021: Notification.'
+
+
+- title: DASFAA
+  year: 2021
+  id: dasfaa
+  link: http://dm.iis.sinica.edu.tw/DASFAA2021/
+  deadline: '2020-11-04 23:59:00'
+  abstract_deadline: '2020-10-28 23:59:00'
+  timezone: UTC-7
+  date: Apr 11-14, 2021
+  place: Taipei, Taiwan, China
+  sub: DB
+  note: '<b>NOTE</b>: 
+         <br>Dec 28, 2020: Notification.'
+
+
+- title: SIGMOD (First Round)
+  year: 2021
+  id: sigmod_1
+  link: http://2021.sigmod.org/
+  deadline: '2020-07-07 17:00:00'
+  timezone: UTC-7
+  date: June 20-25, 2021
+  place: Xi'an, Shaanxi, China
+  sub: DB
+  note: '<b>NOTE</b>: 
+         <br>Aug 11-14, 2020: Author Response. 
+         <br>Sep 14, 2020: Notification for the initial submission. 
+         <br>Nov 25, 2020: Revision deadline. 
+         <br>Dec 23, 2020: Notification for the revised submission.'
+
+
+- title: SIGMOD (Second Round)
+  year: 2021
+  id: sigmod_2
+  link: http://2021.sigmod.org/
+  deadline: '2020-09-22 17:00:00'
+  timezone: UTC-7
+  date: Jun 20-25, 2021
+  place: Xi'an, Shaanxi, China
+  sub: DB
+  note: '<b>NOTE</b>: 
+         <br>Oct 27-30, 2020: Author Response. 
+         <br>Nov 30, 2020: Notification for the initial submission.
+         <br>Feb 10, 2021: Revision deadline. 
+         <br>Mar 10, 2021: Notification for the revised submission.'
+
+
+- title: ICDE (First Round)
+  year: 2021
+  id: icde_1
+  link: https://icde2021.gr/
+  abstract_deadline: '2020-06-10 23:59:00'
+  deadline: '2020-06-17 23:59:00'
+  timezone: UTC-12
+  date: Apr 19-23, 2021
+  place: Chania, Crete, Greece
+  sub: DB
+  note: '<b>NOTE</b>: 
+         <br>Jun 10, 2020: Abstract Deadline. 
+         <br>Aug 11, 2020: Notification for the initial submission. 
+         <br>Sep 11, 2020: Revision deadline. 
+         <br>Oct 2, 2020: Notification for the revised submission.'
+
+
+- title: ICDE (Second Round)
+  year: 2021
+  id: icde_2
+  link: https://icde2021.gr/
+  abstract_deadline: '2020-10-07 23:59:00'
+  deadline: '2020-10-14 23:59:00'
+  timezone: UTC-12
+  date: Apr 19-23, 2021
+  place: Chania, Crete, Greece
+  sub: DB
+  note: '<b>NOTE</b>: 
+         <br>Oct 7, 2020: Abstract Deadline. 
+         <br>Dec 15, 2020: Notification for the initial submission. 
+         <br>Jan 15, 2021: Revision Deadline. 
+         <br>Feb 9, 2021: Notification for revised submission.'
+
+
+- title: IJCAI
+  year: 2021
+  id: ijcai
+  link: https://ijcai-21.org/
+  abstract_deadline: '2021-01-12 23:59:00'
+  deadline: '2021-01-18 23:59:00'
+  timezone: UTC-12
+  date: Aug 21-26, 2021
+  place: Montreal
+  sub: AI
+  note: '<b>NOTE</b>: 
+         <br>Jan 12, 2021: Abstract Deadline. 
+         <br>Summary reject notification: February 05, 2021. 
+         <br>Author response period: March 20-24, 2021. 
+         <br>Paper notification: April 30, 2021.'
+
+
+- title: ACL
+  year: 2021
+  id: acl
+  link: https://2021.aclweb.org/
+  deadline: '2021-02-01 23:59:00'
+  timezone: UTC-12
+  date: Aug 2-4, 2021
+  place: Bangkok, Thailand (ACL-IJCNLP 2021)
+  sub: NLP
+  note: '<b>NOTE</b>: 
+         <br>Anonymity period begins:	January 1, 2021. 
+         <br>Author response period:	March 25-31, 2021. 
+         <br>Notification of acceptance:	May 5, 2021.
+         <br>Camera-ready due:	June 1, 2021'         
+
+
+- title: NIPS
+  year: 2020
+  id: nips
+  link: https://nips.cc/
+  abstract_deadline: '2020-05-27 12:59:00'
+  deadline: '2020-06-05 12:59:00'
+  timezone: UTC-7
+  date: Dec 7-12, 2020
+  place: Virtual
+  sub: AI
+  note: '<b>NOTE</b>: 
+         <br>Review period: Jul 06-24, 2020. 
+         <br>Author response period: Aug 07-13, 2020. 
+         <br>Paper notification: Sep 25, 2020.'
+ 
+
+- title: NAACL
+  year: 2021
+  id: naacl
+  link: https://2021.naacl.org/
+  deadline: '2020-11-23 23:59:00'
+  timezone: UTC-12
+  date: June 6-11, 2021
+  place: Mexico City, Mexico
+  sub: NLP
+  note: '<b>NOTE</b>: 
+         <br>Anonymity period begins:	October 23, 2020. 
+         <br>Notification of acceptance:	March 10, 2021.
+         <br>Camera-ready due:	April 11, 2021'         
+ 
+ 
+- title: EMNLP
+  year: 2020
+  id: emnlp
+  link: https://2020.emnlp.org
+  deadline: '2020-06-03 23:59:00'
+  timezone: UTC-12
+  date: Nov 16-18, 2020
+  place: ...
+  sub: NLP
+  note: '<b>NOTE</b>: 
+         <br>Anonymity period begins:	May 1, 2020. 
+         <br>Author response period: Aug 07-13, 2020. 
+         <br>Notification of acceptance:	September 14, 2020.
+         <br>Camera-ready due:	October 5, 2020'     
+         
+
+- title: ICLR
+  year: 2021
+  id: iclr
+  link: https://iclr.cc/Conferences/2021
+  abstract_deadline: '2020-09-28 08:00:00'
+  deadline: '2020-10-02 08:00:00'
+  timezone: UTC-7
+  date: Mar 4-8, 2021
+  place: Vienna, Austria
+  sub: AI
+  note: '<b>NOTE</b>: 
+         <br>Sep 28, 2020: Abstract Deadline. 
+         <br>Jan 12, 2021: Notification.'
+
+- title: SOSP (not sure exact date)
+  year: 2021
+  id: sosp
+  link: https://sosp2021.mpi-sws.org/
+  deadline: '2021-04-20 08:00:00'
+  timezone: UTC-7
+  date: Oct 25-28, 2021
+  place: Koblenz, Germany
+  sub: SYS
+  note: '<b>NOTE</b>: 
+         <br>Sep 28, 2020: Abstract Deadline. 
+         <br>Jan 12, 2021: Notification.'

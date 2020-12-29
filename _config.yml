@@ -1,0 +1,18 @@
+title: Conference Deadlines 
+# email: 
+description: Countdowns to top SE/PL conference deadlines
+author: Yanlin Wang
+
+url: "https://yanlinwang.github.io/ConferenceDDL"
+domain: "https://yanlinwang.github.io/ConferenceDDL"
+baseurl: "/ConferenceDDL"
+
+# twitter_username:
+# twitter_hashtag: 
+# github_username: 
+# github_repo: 
+
+markdown: kramdown
+# ga_id:
+
+include: ['_pages']
